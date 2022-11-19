@@ -53,5 +53,7 @@ After clicking on submit the page shown below will open and you will be able to 
 ![image](https://user-images.githubusercontent.com/117629056/202847087-590a7560-d356-4105-a5b8-68cf60967bfe.png)
 
 
-Thanks!
+### Conclusion 
+  - This project aim was to show how deploy the ML model and there were a lot of challenges that were faced in making this Project,Learning Flask , HTML from scratch       and applying them, taking decision as to what would be the best ML model etc.
+ 
 
