@@ -54,6 +54,8 @@ After clicking on submit the page shown below will open and you will be able to 
 
 
 ### Conclusion 
-  - This project aim was to show how deploy the ML model and there were a lot of challenges that were faced in making this Project,Learning Flask , HTML from scratch       and applying them, taking decision as to what would be the best ML model etc.
+  - This project aim was to show how deploy the ML model and there were a lot of challenges that were faced in making this Project,Learning Flask , HTML from scratch       and applying them, taking decision as to what would be the best ML model etc but finally the project was ready and showing the result as per thr requirments 
+
+If you do face any issue, feel free to reach me
  
 
