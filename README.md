@@ -27,7 +27,9 @@ This project aims to show the results based on the data that is scraped from the
 
 ### ML 
   - As we had to give recommendation of Location and Price for one, two models were created,
-  - Now as ML model only takes interger values, Cuisine and location input had to be converted into int and then given to 
+  - Now as ML model only takes interger values, Cuisine and location input had to be converted into int and then given to the model for prediction
+  - Then again change the resule that was in int to string so it can be shown on the webpage
+  - For the models two Logistic multinomial Regression models were made as we had to choose location from the given locations 
 
 ### Flask
   - Flask is used to deploy the project 
